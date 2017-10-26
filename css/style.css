@@ -255,6 +255,10 @@
   transition: all .5s ease;
 }
 
+#button{
+  text-align: center;
+}
+
 .btn:hover{
   color: #f78e2c;
   border-color: #f78e2c;
